@@ -131,7 +131,7 @@ Restart your server and find a gun to put your AR-15 Hera Arms HG15 grip on.
 
 ## In-game result
 25% opacity texture in-game:
-![25](https://github.com/minihazel/UABETutorial/blob/main/images/25%20percent%20opacity.png)
+![25](https://github.com/minihazel/UABETutorial/blob/main/images/25.png)
 
 100% opacity texture in-game
-![100](https://github.com/minihazel/UABETutorial/blob/main/images/100%20percent%20opacity.png)
+![100](https://github.com/minihazel/UABETutorial/blob/main/images/100.png)
