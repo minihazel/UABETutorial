@@ -22,11 +22,13 @@ I'll choose this bundle to edit:
 
 You may have up to 3 files here.
 
-`pistolgrip_ar15_hera_arms_hg15.bundle`
+```
+pistolgrip_ar15_hera_arms_hg15.bundle
 
-`pistolgrip_ar15_hera_arms_hg15.bundle.manifest`
+pistolgrip_ar15_hera_arms_hg15.bundle.manifest
 
 pistolgrip_ar15_hera_arms_hg15_texture.bundle
+```
 
 Copy all you have of the item. I only have 2 -> `.bundle` and `.bundle.manifest`
 
